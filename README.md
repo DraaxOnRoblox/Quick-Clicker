@@ -6,7 +6,8 @@
 # 2: Go to your files ==> Right click ==> Extract here
 # 3: Go to Google Chrome ==> Click on the three dots ==> More tools ==> Extensions
 # 4: At the top right ==> Enable developer mode ==> Load unpackaged extension
-# 5: Click on the extension icon ==> Pin "Quick Clicker"
+# 5: Select the extracted file!
+# 6: Click on the extension icon ==> Pin "Quick Clicker"
 
 # HERE YOU GO!
 
