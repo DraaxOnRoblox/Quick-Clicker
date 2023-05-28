@@ -9,3 +9,5 @@
 # 5: Click on the extension icon ==> Pin "Quick Clicker"
 
 # HERE YOU GO!
+
+# Discord : https://discord.gg/QTuQKTK63m
